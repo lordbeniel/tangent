@@ -49,7 +49,7 @@ dependencies:
   hotkey_manager: ^0.2.3
   url_launcher: ^6.3.0
   timezone: ^0.9.4
-  flutter_timezone: ^3.0.1
+  flutter_timezone: ^5.1.1
   local_notifier: ^0.1.6
 
 dev_dependencies:
